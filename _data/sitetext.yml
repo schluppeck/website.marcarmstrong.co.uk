@@ -4,12 +4,25 @@ header:
     button: Tell Me More
     buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
-
 portfolio:
     title: "Portfolio"
     text: "Some work we have done"
     section: portfolio
-    
+
+services:
+    title: "Services"
+    text: "Wide range of domestic and commercial work, including project management for extensions and renovations to smaller jobs including outbuildings, hard landscaping, joinery, and custom built furniture."
+    section: services
+    list:
+      - title: "Extensions & Renovations"
+        desc: "We can manage all the work larger projects can also draw on a team of bricklayers, plasterers, joiners, electricians, and plumbers."
+        icon: fas fa-home #find more at https://fontawesome.com/icons
+      - title: "Brickwork, hard landscaping, outbuildings"
+        desc: ""
+        icon: fab fa-pagelines
+      - title: "Joinery, Sheds, Treehouses"
+        desc: ""
+        icon: fas fa-tools
 
 timeline:
     title: "About" 
@@ -19,26 +32,26 @@ timeline:
       - title: "Extension, West Bridgford"
         year: "Summer 2019"
         desc: "Complete, one-storey extension, West Bridgford"
-        image: assets/img/timeline/1.jpg
+        image: 
         alt: 
         align: left
       - title: "Extension, West Bridgford"
         year: "Autumn 2020"
         desc: "One-storey extension, kitchen, pantry, West Bridgford"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/portfolio/wb-extension-03.jpeg
         alt: 
         align: right
       - title: "Tree house, West Bridgford"
         year: "2009-2011"
         desc: "Raised tree house / garden" 
-        image: assets/img/timeline/4.jpg
+        image: 
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
 about:
     title: "About Us"
-    text: "our story"
+    text: "We are a small, family-run business with more than 20 year's experience"
     section: about
 
 Testimonials:
@@ -50,7 +63,7 @@ Testimonials:
   
 contact:
     title: "Contact Us"
-    text: "<a href="tel://07966 014625">07966 014625</a> / marcarmstrong17@gmail.com"
+    text: '<span style="color: #fff; font-weight: semi-bold;" >Call on <a href="tel:+44 7966 014625">+44 7966 014625</a> or <a href="mailto:marcarmstrong17@gmail.com">marcarmstrong17@gmail.com</a> or use the following form...</span>'
     section: contact
     
 footer:
