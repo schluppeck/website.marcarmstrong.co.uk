@@ -6,7 +6,7 @@ alt: Picture of the extension
 
 
 caption:
-  title: Extension
+  title: Side Extension
   subtitle: West Bridgford
   thumbnail: assets/img/portfolio/wb-extension-03.jpeg
 ---
