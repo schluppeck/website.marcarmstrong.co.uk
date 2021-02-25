@@ -6,7 +6,7 @@ header:
 
 portfolio:
     title: "Portfolio"
-    text: "Some work we have done"
+    text: "Some pictures of recent work we have done"
     section: portfolio
 
 services:
@@ -26,25 +26,31 @@ services:
 
 timeline:
     title: "About" 
-    text: "Some recent work we have done"
+    text: "Some recent projects we have been excited about"
     section: timeline
     events:
-      - title: "Extension, West Bridgford"
-        year: "Summer 2019"
-        desc: "Complete, one-storey extension, West Bridgford"
+      - title: "Pub / restaurant refit"
+        year: ""
+        desc: ""
         image: 
+        alt: 
+        align: right
+      - title: "Extension, West Bridgford"
+        year: "Summer 2020"
+        desc: "Complete, one-storey extension, West Bridgford"
+        image: assets/img/timeline/wb-extension-1-thumbnail-1.jpeg
         alt: 
         align: left
       - title: "Extension, West Bridgford"
         year: "Autumn 2020"
         desc: "One-storey extension, kitchen, pantry, West Bridgford"
-        image: assets/img/portfolio/wb-extension-03.jpeg
+        image: assets/img/timeline/wb-extension-2-thumbnail-1.jpeg
         alt: 
         align: right
       - title: "Tree house, West Bridgford"
-        year: "2009-2011"
+        year: "March 2021"
         desc: "Raised tree house / garden" 
-        image: 
+        image: assets/img/timeline/wb-treehouse-thumbnail-01.png
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
@@ -54,7 +60,7 @@ about:
     text: "We are a small, family-run business with more than 20 year's experience"
     section: about
 
-Testimonials:
+team:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -63,16 +69,16 @@ Testimonials:
   
 contact:
     title: "Contact Us"
-    text: '<span style="color: #fff; font-weight: semi-bold;" >Call on <a href="tel:+44 7966 014625">+44 7966 014625</a> or <a href="mailto:marcarmstrong17@gmail.com">marcarmstrong17@gmail.com</a> or use the following form...</span>'
+    text: '<span style="color: #fff; font-weight: semi-bold;" >For questions about your next project, call Marc on <a href="tel:+44 7966 014625">+44 7966 014625</a> or send an email to <a href="mailto:marcarmstrong17@gmail.com">marcarmstrong17@gmail.com</a>. <br><br><br>You can also use the following form to easily send us your details. We will get back to you as soon as we can...</span>'
     section: contact
     
 footer:
     legal: "Privacy Policy"
     social: 
-      - url: https://facebook.com
+      - url: https://www.facebook.com/marc.armstrong.35
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
+#      - url: https://linkedin.com
+#        icon: "fab fa-linkedin-in"
 
 
 
