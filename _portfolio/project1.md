@@ -25,7 +25,7 @@ We built the side extension, converting a kitchen and dining room into an open-p
 <li>plumbing / moving boiler and upgrading for underfloor heating</li>
 </ul>
 
-{{ site.url }}{{ site.baseurl }}
+<!--- {{ site.url }}{{ site.baseurl }} !-->
 
 
 <hr>
