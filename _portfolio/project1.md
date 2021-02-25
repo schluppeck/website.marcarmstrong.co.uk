@@ -30,13 +30,13 @@ We built the side extension, converting a kitchen and dining room into an open-p
 
 <hr>
 
-![image 2]({{ site.url }}{{ site.baseurl }}assets/img/portfolio/wb-extension-thumbnail-02.jpeg)
+![image 2](assets/img/portfolio/wb-extension-thumbnail-02.jpeg)
 
-![image 3]({{ site.url }}{{ site.baseurl }}assets/img/portfolio/wb-extension-thumbnail-03.jpeg)
+![image 3](assets/img/portfolio/wb-extension-thumbnail-03.jpeg)
 
-![image 4]({{ site.url }}{{ site.baseurl }}assets/img/portfolio/wb-extension-thumbnail-04.jpeg)
+![image 4](assets/img/portfolio/wb-extension-thumbnail-04.jpeg)
 
-![image 5]({{ site.url }}{{ site.baseurl }}assets/img/portfolio/wb-extension-thumbnail-05.jpeg)
+![image 5](assets/img/portfolio/wb-extension-thumbnail-05.jpeg)
 
 
 
