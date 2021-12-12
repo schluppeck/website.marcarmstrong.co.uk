@@ -8,7 +8,7 @@ alt: Picture of the treehouse
 caption:
   title: Treehouse / platform
   subtitle: West Bridgford
-  thumbnail: assets/img/portfolio/wb-treehouse-thumbnail-01.png
+  thumbnail: assets/img/portfolio/wb-treehouse-thumbnail-01.jpg
 ---
 
 Raised platform and gingerbread style treehouse.
