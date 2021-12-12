@@ -42,8 +42,8 @@ en: &DEFAULT_EN
       section: timeline
       events:
         - title: "Pub / restaurant refit"
-          year: ""
-          desc: ""
+          year: "2019"
+          desc: "Substantial extension to a pub / commercial."
           image: 
           alt: 
           align: right
@@ -62,14 +62,20 @@ en: &DEFAULT_EN
         - title: "Tree house, West Bridgford"
           year: "March 2021"
           desc: "Raised tree house / garden" 
-          image: assets/img/timeline/wb-treehouse-thumbnail-01.png
+          image: assets/img/timeline/wb-treehouse-thumbnail-01.jpg
           alt: 
           align: right
+        - title: "Extension, Nottingham"
+          year: "Summer / Autumn 2021"
+          desc: "One-storey extension to a Victorian semi." 
+          image: assets/img/timeline/residential-extension-thumbnail.jpg
+          alt: 
+          align: left
       end: "Be Part <br> of Our <br> Story!"
 
   about:
       title: "About Us"
-      text: "We are a small, family-run business with more than 20 year's experience"
+      text: "We are a small, family-run business with more than 20 year's experience of building and project managing."
       section: about
 
   team:
