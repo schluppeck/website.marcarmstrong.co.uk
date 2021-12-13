@@ -1,14 +1,14 @@
 ---
 title: Commercial, extension to a pub
 subtitle: Two-storey extension on a Victorian pub
-image: assets/img/portfolio/8f132ce3-c4ef-402f-9372-1eb5bfa04370.JPG
+image: assets/img/portfolio/8f132ce3-c4ef-402f-9372-1eb5bfa04370.jpeg
 alt: View onto the back of house
 
 
 caption:
   title: Extension to pub
-  subtitle: 
-  thumbnail: assets/img/portfolio/8f132ce3-c4ef-402f-9372-1eb5bfa04370.JPG
+  subtitle: Commercial work
+  thumbnail: assets/img/portfolio/8f132ce3-c4ef-402f-9372-1eb5bfa04370.jpeg
 ---
 
 Substantial two-storey extension on the back of a pub. Nottingham.
