@@ -44,7 +44,7 @@ en: &DEFAULT_EN
         - title: "Pub / restaurant refit"
           year: "2019"
           desc: "Substantial extension to a pub / commercial."
-          image: assets/img/portfolio/8f132ce3-c4ef-402f-9372-1eb5bfa04370.JPG
+          image: assets/img/timeline/pub-ext-thumbnail-01.jpg
           alt: 
           align: right
         - title: "Extension, West Bridgford"
@@ -64,13 +64,13 @@ en: &DEFAULT_EN
           desc: "Raised tree house / garden" 
           image: assets/img/timeline/wb-treehouse-thumbnail-01.jpg
           alt: 
-          align: right
+          align: left
         - title: "Extension, Nottingham"
           year: "Summer / Autumn 2021"
           desc: "One-storey extension to a Victorian semi." 
           image: assets/img/timeline/residential-extension-thumbnail.jpg
           alt: 
-          align: left
+          align: right
       end: "Be Part <br> of Our <br> Story!"
 
   about:
