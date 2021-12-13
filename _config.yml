@@ -18,7 +18,7 @@ url    : "https://schluppeck.github.io/" # the base hostname & protocol for your
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Marc Armstrong Building and Joinery
-email      : marcanthonyarmstrong@hotmail.com #this is also the email contact forms will go to
+email      : marcantonyarmstrong@hotmail.com #this is also the email contact forms will go to
 description: "Nottingham-based local Building and Joinery firm"
 author     : Marc Anthony Armstrong
 # logo:     #optional, defaults to site title
