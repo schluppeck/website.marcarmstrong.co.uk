@@ -8,7 +8,7 @@ alt: View onto the back of house
 caption:
   title: Extension to pub
   subtitle: 
-  thumbnail: assets/img/portfolio/pub-ext-thumbnail-01.jpeg
+  thumbnail: assets/img/portfolio/8f132ce3-c4ef-402f-9372-1eb5bfa04370.JPG
 ---
 
 Substantial two-storey extension on the back of a pub. Nottingham.
